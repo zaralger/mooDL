@@ -3,7 +3,6 @@ mooDL
 
 Outil de téléchargement de cours sur le moodle UTTien
 
-Installation: 
-====
+Installation:
 sudo easy_install caslib
 
